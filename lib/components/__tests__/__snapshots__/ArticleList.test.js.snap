@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleList renders correctly 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "borderBottomColor": "#aaa",
+        "borderBottomStyle": "solid",
+        "borderBottomWidth": 1,
+        "marginBottom": 10,
+        "paddingBottom": 10,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "paddingLeft": 20,
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "color": "#888",
+          "fontSize": "0.85em",
+        }
+      }
+    >
+      Sat Aug 05 2017
+    </div>
+    <div
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <a
+        href={undefined}
+      />
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "borderBottomColor": "#aaa",
+        "borderBottomStyle": "solid",
+        "borderBottomWidth": 1,
+        "marginBottom": 10,
+        "paddingBottom": 10,
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "fontWeight": "bold",
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "paddingLeft": 20,
+        }
+      }
+    />
+    <div
+      style={
+        Object {
+          "color": "#888",
+          "fontSize": "0.85em",
+        }
+      }
+    >
+      Sat Aug 05 2017
+    </div>
+    <div
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <a
+        href={undefined}
+      />
+    </div>
+  </div>
+</div>
+`;
